@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { signIn, signOut, useSession } from "next-auth/react";
 import Messages from "../components/messages";
 import Form from "../components/form";
